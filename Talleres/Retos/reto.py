@@ -33,11 +33,11 @@ print("Iteration--- %s seconds ---" % (time.time() - start_time))
 #Recursion--- 0.0009856224060058594 seconds ---
 #Iteration--- 0.0 seconds ---
 #Ingrese un número: 250
-#Recursion--- 0.0010061264038085938 seconds ---
+#Recursion--- 0.0 seconds ---
 #Iteration--- 0.0 seconds ---
 #Ingrese un número: 400
 #Recursion--- 0.0 seconds ---
-#Iteration--- 0.0 seconds ---
+#Iteration--- 0.0009982585906982422 seconds ---
 
 #1.2
 #lo que pasa es que el se sale de los rango de la recurcion del programa, y como esta ordenado saliendose del rango la pila y por eso causa el error
