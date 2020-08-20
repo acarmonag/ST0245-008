@@ -1,4 +1,4 @@
-numero = int(input("Ingrese los dos ultimos números de su tarjeta de identidad: "))
+numero = int(input("Ingrese los dos ultimos del documento: "))
 def invert(n):
     if n > 1:
         print(n)
