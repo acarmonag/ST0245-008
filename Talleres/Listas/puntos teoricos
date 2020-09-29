@@ -1,0 +1,14 @@
+2. Es más eficiente el método del vector ordenado, ya que usa menos capacidad de memoria del equipo a la hora de organizar las listas, además las posiciones de memoria siempre están continuas.
+
+3. El método usado para ordenar la lista después de las 2 pasadas como se muestra en el enunciado es el método de inserción, ya que el método lo que hace es avanzar leyendo de izquierda a derecha, 
+y después de derecha a izquierda hasta que pueda organizar los datos de la lista.
+
+8.la respuesta es [21, 1]
+
+9. Primero se crea una clase, en donde se proceden a realizar los constructores, en el primero se crea una lista vacía, después en el segundo constructor se devuelven los elementos de la lista, 
+cuando se van recorriendo los distritos constructores se crea uno en el cual se pueden 
+eliminar elementos de la lista, y al final organiza los elementos de la lista en donde busca un orden para después imprimir el resultado.
+
+12. Redix sort: Es un algoritmo de ordenamiento que tiene como fin organizar los elementos de una lista de manera individual, así creando diferentes funciones en donde el usuario pueda organizar lo elementos de las listas.
+Bin sort: Es un algoritmo que almacena los datos que se le cargan de una lista o lo que genere el usuario por medio de casilleros, en donde se muestra que son finitos, el usuario debe crear y 
+establecer el limite de datos que se pueden almacenar.
